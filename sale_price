@@ -1,0 +1,4 @@
+a=int(input("price of goods:"))
+b=eval(input("discount percentage:"))
+c=(a*(1-b))
+print("total price：",c)
